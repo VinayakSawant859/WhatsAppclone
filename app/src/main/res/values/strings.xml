@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">WhatsApp clone</string>
+    <string name="otpVerify">Whatsapp clone will sent you a message to verify phone number</string>
+    <string name="note_Main">Whatsapp clone will sent you a message to verify your phone number</string>
+    <string name="note_main_verify">Verify your phone number</string>
+    <string name="note_main_editHint">Type your phone number</string>
+</resources>
